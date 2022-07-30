@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwedding_gift_webpack=self.webpackChunkwedding_gift_webpack||[]).push([[45],{45:(e,k,w)=>{w.r(k)}}]);
