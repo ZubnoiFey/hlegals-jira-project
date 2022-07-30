@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed2e0c30-658e-493f-975f-472abf8e2fb3" name="Changes" comment="">
+    <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts/OpenSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts/OpenSans-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts/OpenSans-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/fonts/OpenSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webpack-template.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -22,8 +37,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2CImdR1TK4EUQIQVpCiBa2aiQ2c" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2CfIBbbg8Ile44OJ6QH6FBulBsn" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -34,36 +49,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ustin/WebstormProjects/hlegals-website",
+    "last_opened_file_path": "C:/Users/ustin/WebstormProjects/hlegals-website/src/styles",
+    "list.type.of.created.stylesheet": "SCSS",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ustin\WebstormProjects\webpack-template" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles\fonts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed2e0c30-658e-493f-975f-472abf8e2fb3" name="Changes" comment="" />
-      <created>1658498560310</created>
+      <changelist id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="" />
+      <created>1659187077623</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658498560310</updated>
-      <workItem from="1658498562014" duration="369000" />
-      <workItem from="1658498948093" duration="94000" />
-      <workItem from="1658499304028" duration="591000" />
-      <workItem from="1658647356564" duration="144000" />
-      <workItem from="1659185322024" duration="522000" />
-      <workItem from="1659186133515" duration="11000" />
-      <workItem from="1659186153991" duration="31000" />
-      <workItem from="1659186194453" duration="191000" />
-      <workItem from="1659186453445" duration="327000" />
+      <updated>1659187077623</updated>
+      <workItem from="1659187078914" duration="1639000" />
     </task>
     <servers />
   </component>
