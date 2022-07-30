@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts/OpenSans-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts/OpenSans-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts/OpenSans-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fonts/OpenSans-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webpack-template.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/header/Facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hero/Frame1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hero/hero__bg__p-letter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +48,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.14.2",
+    "javascript.nodejs.core.library.typings.version": "16.11.46",
     "last_opened_file_path": "C:/Users/ustin/WebstormProjects/hlegals-website/src/styles",
     "list.type.of.created.stylesheet": "SCSS",
     "nodejs_package_manager_path": "npm",
@@ -64,6 +61,9 @@
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\hero" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\header" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles\fonts" />
     </key>
   </component>
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187077623</updated>
-      <workItem from="1659187078914" duration="1639000" />
+      <workItem from="1659187078914" duration="4120000" />
     </task>
     <servers />
   </component>
