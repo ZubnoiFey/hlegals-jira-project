@@ -23,7 +23,7 @@
   font-family: OpenSans;
   font-display: swap;
   font-weight: 700;
-  src: url("fonts/OpenSans-Medium.woff2") format('woff2');
+  src: url("fonts/OpenSans-Bold.woff2") format('woff2');
 }
 
 .container {
@@ -34,4 +34,16 @@
 
 body {
   font-family: OpenSans, sans-serif;
+}
+
+.text--white {
+  color: #ffffff;
+}
+
+.heading--white {
+  color: #ffffff;
+}
+
+.link--white {
+  color: #ffffff;
 }
