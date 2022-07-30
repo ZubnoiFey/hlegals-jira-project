@@ -7,7 +7,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 module.exports = {
     entry: './src/index.js',
     output: {
-        path: resolve(__dirname, './build'),
+        path: resolve(__dirname, '/build'),
         filename: '[name]-[fullhash].js',
         clean: true,
     },
@@ -24,11 +24,8 @@ module.exports = {
                 ],
             },
             {
-
                 test: /\.(woff|woff2|eot|ttf|otf)$/i,
-
                 type: 'asset/resource',
-
             },
 
             {
@@ -46,7 +43,7 @@ module.exports = {
         })
     ],
     devServer: {
-        port: 3000,
+        port: 3001,
         static: {
 directory: join (__dirname, 'src')
         }
