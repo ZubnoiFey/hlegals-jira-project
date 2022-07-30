@@ -1,3 +1,32 @@
 .hero-wrapper {
- @include background-right-corner-red;
+  @include background-right-corner-red;
+}
+
+.header {
+  padding-top: 50px;
+  padding-bottom: 95px;
+}
+
+.header__container{
+display: flex;
+  justify-content: space-between;
+}
+
+.header__logo {
+  display: flex;
+  flex-direction: column;
+}
+
+.header__menu {
+
+}
+
+
+.languages__wrapper {
+  @include flex-center;
+  gap: 20px;
+}
+.header__lang {
+  display: flex;
+  gap: 20px;
 }
