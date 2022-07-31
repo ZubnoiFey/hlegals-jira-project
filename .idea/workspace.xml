@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/cases/3dlook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/adtelligent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/art-print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/city-park.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/clickky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/ecoleasing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/hillel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/infratek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/orangegear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/tapgerne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/ultimate-card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cases/wannabiz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/equity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/gdpr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/kyiv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/millenials.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/publications-6th-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/services/1sticon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/services/2ndIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/services/3rdIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/services/4thIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/services/5thIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/services/6thIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/team/image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,29 +60,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "16.14.2",
-    "javascript.nodejs.core.library.typings.version": "16.11.46",
-    "last_opened_file_path": "C:/Users/ustin/WebstormProjects/hlegals-website/src/styles",
-    "list.type.of.created.stylesheet": "SCSS",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.14.2&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.11.46&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ustin/WebstormProjects/hlegals-website/src/styles&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\hero" />
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\header" />
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images" />
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles\fonts" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\publications" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\cases" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\team" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\services" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,6 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1659187077623</updated>
       <workItem from="1659187078914" duration="7813000" />
+      <workItem from="1659202487675" duration="850000" />
+      <workItem from="1659249078739" duration="5565000" />
     </task>
     <servers />
   </component>
