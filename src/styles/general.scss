@@ -83,10 +83,17 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.2;
+  text-transform: uppercase;
 }
 
 .text--grey {
   color: #B3B3BA;
+}
+
+.text--purple {
+  background-image: linear-gradient(90.13deg, #EF8080 0.84%, #F0145A 99.96%);
+  background-clip: text;
+  color: transparent;
 }
 
 .heading--grey {
