@@ -40,6 +40,12 @@ body {
   color: #ffffff;
 }
 
+
+.heading {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 1.2;
+}
 .heading--white {
   color: #ffffff;
 }
@@ -68,6 +74,17 @@ body {
   color: #24A3FF;
 }
 
+.top-link--grey {
+  color: #FFFFFF;
+  opacity: 0.5;
+}
+
+.top-link {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
 .text--grey {
   color: #B3B3BA;
 }
@@ -80,4 +97,8 @@ body {
   background-image: linear-gradient(90.13deg, #EF8080 0.84%, #F0145A 99.96%);
   background-clip: text;
   color: transparent;
+}
+
+.subheading--blue {
+  color: #24A3FF;
 }

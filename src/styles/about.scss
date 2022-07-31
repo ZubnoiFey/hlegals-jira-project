@@ -51,3 +51,37 @@ gap: 80px;
   font-weight: 400;
   line-height: 1.4;
 }
+
+.services {
+  padding-top: 40px;
+  padding-bottom: 80px;
+}
+
+
+.services__heading {
+  margin-top: 15px;
+  margin-bottom: 70px;
+}
+
+
+.services__list {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+
+}
+
+.services__item {
+  width: 400px;
+}
+
+.services__icon {
+  margin-bottom: 20px;
+}
+
+.services__subheading  {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
