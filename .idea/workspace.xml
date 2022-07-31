@@ -2,33 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/cases/3dlook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/adtelligent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/art-print.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/city-park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/clickky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/ecoleasing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/hillel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/infratek.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/orangegear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/tapgerne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/ultimate-card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cases/wannabiz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/publications/equity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/publications/gdpr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/publications/kyiv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/publications/millenials.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/publications/publications-6th-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/services/1sticon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/services/2ndIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/services/3rdIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/services/4thIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/services/5thIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/services/6thIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/team/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/mixins.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +76,7 @@
       <updated>1659187077623</updated>
       <workItem from="1659187078914" duration="7813000" />
       <workItem from="1659202487675" duration="850000" />
-      <workItem from="1659249078739" duration="5565000" />
+      <workItem from="1659249078739" duration="8915000" />
     </task>
     <servers />
   </component>

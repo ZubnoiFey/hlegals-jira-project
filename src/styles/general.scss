@@ -45,7 +45,15 @@ body {
 }
 
 .heading--purple {
-  background:  linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+  background-image:  linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+  background-clip: text;
+  color: transparent;
+}
+
+.gradient-wrapper {
+  //@include background-right-corner-red;
+  background: linear-gradient(228.57deg, #323264 11.93%, #323264 57.17%, #643E72 87.46%);
+  border-radius: 0px 0px 12px 12px;
 }
 
 .link--white {
