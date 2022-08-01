@@ -1,0 +1,19 @@
+.partners {
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.partners__title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.2
+}
+
+.partners__images {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

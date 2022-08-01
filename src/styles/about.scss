@@ -1,6 +1,10 @@
 .about {
   padding-top: 100px;
   padding-bottom: 80px;
+  @media (max-width: 1200px) {
+    padding-top: 60px;
+    padding-bottom: 50px;
+  }
 }
 
 .about__container {
@@ -18,7 +22,12 @@
 
 .about__item {
   display: flex;
-gap: 80px;
+  gap: 80px;
+  @media (max-width: 1200px) {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
 }
 
 .about__text-wrapper {
@@ -31,6 +40,9 @@ gap: 80px;
   font-weight: 600;
   line-height: 1.2;
   text-align: left;
+  @media (max-width: 1200px) {
+    font-size: 30px;
+  }
 }
 
 .about__heading:active {
@@ -44,6 +56,9 @@ gap: 80px;
   font-weight: 500;
   line-height: 1.2;
   margin-bottom: 20px;
+  @media (max-width: 1200px) {
+    font-size: 25px;
+  }
 }
 
 .about__text {
@@ -73,13 +88,16 @@ gap: 80px;
 
 .services__item {
   width: 400px;
+  @media (max-width: 1200px) {
+    width: 45%;
+  }
 }
 
 .services__icon {
   margin-bottom: 20px;
 }
 
-.services__subheading  {
+.services__subheading {
   font-size: 24px;
   font-weight: 500;
   line-height: 1.2;

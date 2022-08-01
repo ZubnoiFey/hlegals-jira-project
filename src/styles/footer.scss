@@ -1,0 +1,60 @@
+.footer {
+  padding-top: 35px;
+  padding-bottom: 40px;
+}
+
+.footer__address-wrapper {
+  @include flex-center;
+}
+
+.footer__address {
+  display: flex;
+  gap: 50px;
+}
+
+.footer__map {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.footer__contacts {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.footer__street {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.footer__map {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.footer__text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.footer__phone {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: rgba(70, 70, 110, 1);
+}
+
+.footer__email {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.2;
+}
