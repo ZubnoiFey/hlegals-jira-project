@@ -1,4 +1,4 @@
-.about {
+.hero-about {
   padding-top: 100px;
   padding-bottom: 80px;
   @media (max-width: 1200px) {
@@ -7,20 +7,20 @@
   }
 }
 
-.about__container {
+.hero-about__container {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.about__list {
+.hero-about__list {
   display: flex;
   gap: 25px;
   flex-direction: column;
 
 }
 
-.about__item {
+.hero-about__item {
   display: flex;
   gap: 80px;
   @media (max-width: 1200px) {
@@ -30,12 +30,12 @@
   }
 }
 
-.about__text-wrapper {
+.hero-about__text-wrapper {
   width: 600px;
   align-items: center;
 }
 
-.about__heading {
+.hero-about__heading {
   font-size: 42px;
   font-weight: 600;
   line-height: 1.2;
@@ -45,13 +45,13 @@
   }
 }
 
-.about__heading:active {
+.hero-about__heading:active {
   background-image: linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
   background-clip: text;
   color: transparent;
 }
 
-.about__title {
+.hero-about__title {
   font-size: 32px;
   font-weight: 500;
   line-height: 1.2;

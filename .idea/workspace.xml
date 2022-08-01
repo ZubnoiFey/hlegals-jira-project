@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/about-header/Slash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/about-header/Symbol-Slash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/about-hero/about-bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/about-hero/about-star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/about-hero/flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/about-achiement.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/cases.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/cases.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/partners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/partners.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/team.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/team.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="SCSS File" />
         <option value="HTML File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -59,11 +65,11 @@
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles\hero-page" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-hero" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-header" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\footer" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\publications" />
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\cases" />
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\team" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,7 +84,7 @@
       <workItem from="1659202487675" duration="850000" />
       <workItem from="1659249078739" duration="23708000" />
       <workItem from="1659340494573" duration="5528000" />
-      <workItem from="1659346411094" duration="1318000" />
+      <workItem from="1659346411094" duration="3724000" />
     </task>
     <servers />
   </component>

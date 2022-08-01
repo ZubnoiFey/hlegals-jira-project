@@ -1,9 +1,9 @@
 @import "src/styles/reset.scss";
 @import "src/styles/general.scss";
 @import "src/styles/mixins.scss";
-@import "src/styles/hero.scss";
-@import "src/styles/about.scss";
-@import "src/styles/team.scss";
-@import "src/styles/cases.scss";
-@import "src/styles/partners.scss";
+@import "src/styles/hero-page/hero.scss";
+@import "src/styles/hero-page/hero-about";
+@import "src/styles/hero-page/team.scss";
+@import "src/styles/hero-page/cases.scss";
+@import "src/styles/hero-page/partners.scss";
 @import "src/styles/footer.scss";
