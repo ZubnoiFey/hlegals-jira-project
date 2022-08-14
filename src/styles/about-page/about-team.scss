@@ -1,0 +1,18 @@
+.about-team__image {
+  background-image: url("/src/images/about-team/about-team.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 170px;
+  padding-bottom: 170px;
+}
+
+.about-team__heading  {
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 63px;
+  opacity: 0.8;
+  text-shadow: 0px 15px 30px rgba(40, 40, 86, 0.8);
+}
