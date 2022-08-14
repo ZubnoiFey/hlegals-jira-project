@@ -6,7 +6,7 @@
   padding-bottom: 170px;
 }
 
-.about-team__heading  {
+.about-team__heading {
   font-size: 96px;
   font-weight: 700;
   line-height: 1.2;
@@ -15,4 +15,30 @@
   letter-spacing: 63px;
   opacity: 0.8;
   text-shadow: 0px 15px 30px rgba(40, 40, 86, 0.8);
+}
+
+.about-team__container {
+  padding-top: 80px;
+  padding-bottom: 85px;
+}
+
+.about-team__container {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+
+.about-team__motto {
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 1.2;
+  width: 500px;
+}
+
+.about-team__paragraph {
+  width: 650px;
+}
+
+.achievement__image {
+  width: 300px;
 }

@@ -1,10 +1,15 @@
 .footer {
   padding-top: 35px;
   padding-bottom: 40px;
+  background-color: rgba(245, 245, 250, 1);
 }
+
+
 
 .footer__address-wrapper {
   @include flex-center;
+  padding-top: 35px;
+  padding-bottom: 50px;
 }
 
 .footer__address {

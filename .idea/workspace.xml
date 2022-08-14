@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/about-team/about-team.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/about-page/about-team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/about-page/about-achievements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/about-page/about-footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about-page/about-hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-team.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about-page/about-team.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
     </list>
@@ -86,7 +88,7 @@
       <workItem from="1659986294400" duration="642000" />
       <workItem from="1660033602757" duration="608000" />
       <workItem from="1660071279620" duration="1758000" />
-      <workItem from="1660468441488" duration="6468000" />
+      <workItem from="1660468441488" duration="8646000" />
     </task>
     <servers />
   </component>
