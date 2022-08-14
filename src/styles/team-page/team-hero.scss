@@ -1,0 +1,21 @@
+.team-hero {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+
+.team-hero__heading {
+  margin-bottom: 80px;
+  text-align: left;
+}
+
+.team-hero__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.team-hero__text-wrapper {
+  margin-top: 20px;
+  @include flex-center;
+}

@@ -46,10 +46,14 @@ module.exports = {
             filename:"about.html",
             template: './src/about.html'
         }),
+        new HtmlWebpackPlugin({
+            filename:"team.html",
+            template: './src/team.html'
+        }),
 
     ],
     devServer: {
-        port: 3003,
+        port: 3001,
         static: {
 directory: join (__dirname, 'src')
         }
