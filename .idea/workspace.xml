@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/team/Open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/team/julia-gudimenko.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/team/oxana-kobzar-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/team/oxana-kobzar-first-wor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/team/vladislav-melnik-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/team/vladislav-melnik.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/team-page/team-hero.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/team/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/team/olexand-olexandrovsky.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/team-page/team-hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/team-page/team-hero.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +81,7 @@
       <workItem from="1659986294400" duration="642000" />
       <workItem from="1660033602757" duration="608000" />
       <workItem from="1660071279620" duration="1758000" />
-      <workItem from="1660468441488" duration="18623000" />
+      <workItem from="1660468441488" duration="19237000" />
     </task>
     <servers />
   </component>
