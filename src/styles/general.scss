@@ -103,6 +103,9 @@ body {
   font-size: 21px;
   font-weight: 400;
   line-height: 1.4;
+  @media (max-width: 1200px) {
+    font-size: 16px;
+  }
 }
 
 .text--grey {
@@ -154,11 +157,17 @@ body {
 .slash-icon {
   width: 21px;
   height: 47px;
+  @media (max-width: 1200px) {
+    height: 25px;
+  }
 }
 
 .p-icon {
   height: 47px;
   width: 42px;
+  @media (max-width: 1200px) {
+    height: 25px;
+  }
 }
 
 .header__icon-wrapper {
@@ -181,6 +190,11 @@ body {
   font-size: 38px;
   font-weight: 400;
   line-height: 1.2;
+  @media (max-width: 1200px) {
+    height: 25px;
+    font-size: 19px;
+    font-weight: 400;
+  }
 }
 
 .logo:first-letter {
@@ -192,4 +206,18 @@ body {
   font-weight: 400;
   line-height: 1.2;
   text-transform: uppercase;
+}
+
+.languages__wrapper {
+  @media (max-width: 1200px) {
+    display: flex;
+    gap: 15px;
+  }
+}
+
+.header__lang {
+  @media (max-width: 1200px) {
+    display: flex;
+    justify-content: space-between;
+  }
 }
