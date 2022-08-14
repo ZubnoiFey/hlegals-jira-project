@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-achievements.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about-page/about-achievements.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about-page/about-hero.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-team.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/about-page/about-team.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-page/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +55,11 @@
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-team" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-header" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-achievement" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles\hero-page" />
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-hero" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,7 +81,7 @@
       <workItem from="1659986294400" duration="642000" />
       <workItem from="1660033602757" duration="608000" />
       <workItem from="1660071279620" duration="1758000" />
-      <workItem from="1660468441488" duration="13138000" />
+      <workItem from="1660468441488" duration="13490000" />
     </task>
     <servers />
   </component>
