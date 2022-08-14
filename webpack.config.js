@@ -50,7 +50,10 @@ module.exports = {
             filename:"team.html",
             template: './src/team.html'
         }),
-
+        new HtmlWebpackPlugin({
+            filename:"contacts.html",
+            template: './src/contacts.html'
+        }),
     ],
     devServer: {
         port: 3001,
