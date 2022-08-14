@@ -170,6 +170,13 @@ body {
   }
 }
 
+.header__container {
+  @media(max-width: 600px) {
+    display: flex;
+    flex-direction: column;
+  };
+}
+
 .header__icon-wrapper {
   display: flex;
   flex-direction: column;
@@ -201,11 +208,27 @@ body {
   color: rgba(240, 20, 90, 1);
 }
 
+
 .header__link {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.2;
   text-transform: uppercase;
+  @media (max-width: 1200px) {
+    font-size: 12px;
+  }
+}
+
+.header__address {
+  @media(max-width: 600px) {
+    display: none;
+  }
+}
+
+.header__facebook-link {
+  @media(max-width: 600px) {
+    display: none;
+  }
 }
 
 .languages__wrapper {
@@ -219,5 +242,26 @@ body {
   @media (max-width: 1200px) {
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
   }
+}
+
+.header__navmenu-wrapper {
+  width: 400px;
+}
+
+.header__item {
+  width: 100%;
+  @media (max-width: 800px) {
+    width: 20%;
+  }
+}
+
+.header__list {
+  @media (max-width: 800px) {
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  };
 }

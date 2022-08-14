@@ -11,4 +11,8 @@
 .achievement-gallery-wrapper {
   display: flex;
   gap: 40px;
+  @media(max-width:1200px) {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }

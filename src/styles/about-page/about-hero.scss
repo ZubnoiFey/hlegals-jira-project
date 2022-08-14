@@ -1,9 +1,16 @@
 .about__hero-container {
   @include flex-center;
+  @media (max-width: 800px) {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .about__hero-text-wrapper {
   width: 650px;
+  @media (max-width: 800px) {
+    width: 95%
+  }
 }
 
 .hero__number {
@@ -22,10 +29,16 @@
   display: flex;
   flex-direction: column;
   gap: 40px;
+  @media (max-width: 800px) {
+    width: 95%;
+  }
 }
 
 .hero__item {
   width: 400px;
+  @media (max-width: 800px) {
+    width: 95%;
+  }
 }
 
 .hero__icon {

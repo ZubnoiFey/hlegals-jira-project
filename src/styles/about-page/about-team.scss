@@ -23,6 +23,9 @@
     font-size: 45px;
     letter-spacing: 20px;
   }
+  @media (max-width: 1200px) {
+    letter-spacing: 10px;
+  }
 }
 
 .about-team__container {
@@ -34,6 +37,12 @@
   display: flex;
   gap: 40px;
   justify-content: center;
+  @media (max-width: 1200px) {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
 }
 
 .about-team__motto {
@@ -44,10 +53,16 @@
   @media (max-width: 1200px) {
     font-size: 30px;
   }
+  @media (max-width: 800px){
+    width: 95%;
+  }
 }
 
 .about-team__paragraph {
   width: 650px;
+  @media (max-width: 1200px) {
+    width: 95%;
+  }
 }
 
 .achievement__image {

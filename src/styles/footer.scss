@@ -10,11 +10,21 @@
   @include flex-center;
   padding-top: 35px;
   padding-bottom: 50px;
+  @media (max-width: 800px) {
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+  }
 }
 
 .footer__address {
   display: flex;
   gap: 50px;
+  @media (max-width: 800px) {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
 }
 
 .footer__map {
@@ -30,6 +40,11 @@
   display: flex;
   gap: 20px;
   align-items: center;
+  @media (max-width: 800px) {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
 }
 
 .footer__street {
