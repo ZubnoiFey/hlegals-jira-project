@@ -39,8 +39,14 @@ module.exports = {
             filename: '[name]-[fullhash].css',
         }),
         new HtmlWebpackPlugin({
+            filename:"index.html",
             template: './src/index.html'
-        })
+        }),
+        new HtmlWebpackPlugin({
+            filename:"about.html",
+            template: './src/about.html'
+        }),
+
     ],
     devServer: {
         port: 3003,

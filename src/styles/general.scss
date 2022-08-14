@@ -133,10 +133,56 @@ body {
   font-size: 14px;
   font-weight: 500;
   line-height: 1.2;
-  color:#323264;
+  color: #323264;
 }
 
 .title--center {
   text-align: center;
+}
 
+.logo-text-color {
+  color: #323264;
+}
+
+.slash-icon {
+  width: 21px;
+  height: 47px;
+}
+
+.p-icon {
+  height: 47px;
+  width: 42px;
+}
+
+.header__icon-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.header__logo-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__bottom-text-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+.header__page-title {
+  font-size: 38px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.logo:first-letter {
+  color: rgba(240, 20, 90, 1);
+}
+
+.header__link {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: uppercase;
 }
