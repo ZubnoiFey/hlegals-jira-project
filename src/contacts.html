@@ -13,13 +13,13 @@
         <div class="header__icon-wrapper">
             <div class="header__logo-wrapper">
                 <a href="#" class="logo header__logo logo-text-color ">hlegals </a>
-                <p class="header__page-title logo-text-color"><img src="/images/about-header/Slash.png"
+                <p class="header__page-title logo-text-color"><img src="../src/images/about-header/Slash.png"
                                                                    alt="A slash image"
                                                                    class="contacts__slash-icon slash-icon ">контакти</p>
-                <img src="/images/about-header/Symbol-Slash.png" alt="A P letter icon" class="about__p-icon p-icon">
+                <img src="../src/images/about-header/Symbol-Slash.png" alt="A P letter icon" class="about__p-icon p-icon">
             </div>
             <div class="header__bottom-text-wrapper">
-                <span class="logo__text logo-text-color">Юрідична компанія</span>
+                <span class="logo__text">Юрідична компанія</span>
             </div>
         </div>
         <div class="header__menu">
@@ -62,32 +62,37 @@
 <section class="main">
     <div class="container main__container">
         <ul class="main__address">
-            <li class="main__item">
-                <p class="main__address">Одеса, <span class="main__street">Адміральський пр., 3</span></p>
+            <li class="main__item main__item-border">
+                <p class="main__address paragraph gray-blue-text-color ">Одеса, <span
+                        class="main__street gray-blue-text-color ">Адміральський пр., 3</span></p>
             </li>
-            <li class="main__item">
-                <p class="main__phone">+38 (050) 390 15 95</p>
-                <p class="main__email">contact@hlegals.net</p>
+            <li class="main__item main__item-border">
+                <p class="main__phone paragraph gray-blue-text-color ">+38 (050) 390 15 95</p>
+                <p class="main__email paragraph paragraph--blue">contact@hlegals.net</p>
             </li>
-            <li class="main__item">
-                <a href="#" class="main__link link--blue"><img src="/images/footer/footer-fb-icon.png"
-                                                               alt="A facebook icon">Наша сторінка в фейсбуці</a>
+            <li class="main__item main__item-fb">
+                <a href="#" class="main__link link--blue main__link-fb"><img src="../src/images/footer/footer-fb-icon.png"
+                                                                             alt="A facebook icon">Наша сторінка в
+                    фейсбуці</a>
             </li>
         </ul>
         <form action="#" class="main__form contacts">
             <h2 class="contacts__heading heading--purple">Ми хотіли б вам допомогти</h2>
-            <label><input type="text" class="contacts__input">Ім'я</label>
-            <label><textarea name="textarea" class="contacts__text">Повідомлення</textarea></label>
+            <label class="contacts__label"><input type="text" class="contacts__input contacts__name contacts__field-title" placeholder="Ім'я"></label>
+            <label class="contacts__label"><textarea name="textarea" class="contacts__text contacts__field-title"
+                                                     placeholder="Повідомлення"></textarea></label>
             <p class="main__form-title text text--grey">Як вам відповісти?</p>
-            <label><input type="number" class="contacts__input contacts__phone text text--grey">Номер телефона</label>
-            <label><input type="email" class="contacts__input contacts__email text text--grey">Чи email</label>
+            <label class="contacts__label"><input type="tel" class="contacts__input contacts__phone text text--grey contacts__field-title"
+                                                  placeholder="Номер телефона"></label>
+            <label class="contacts__label"><input type="email" class="contacts__input contacts__email text text--grey contacts__field-title"
+                                                  placeholder="Чи email"></label>
             <button class="button button--blue" type="submit">Надіслати запит</button>
         </form>
     </div>
 </section>
 <section class="map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2749.6382809299757!2d30.737941415807633!3d46.43604867608984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c63396894457b7%3A0x7f6c5236cbcb70c8!2z0JDQtNC80ZbRgNCw0LvRjNGB0YzQutC40Lkg0L_RgNC-0YHQv9C10LrRgiwgMywg0J7QtNC10YHQsCwg0J7QtNC10YHRjNC60LAg0L7QsdC70LDRgdGC0YwsIDY1MDAw!5e0!3m2!1suk!2sua!4v1660643655139!5m2!1suk!2sua"
-            width="1400" height="1200" style="border:0;" allowfullscreen="" loading="lazy"
+            width="2100" height="600" style="border:0;" allowfullscreen="" loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 <footer class="footer">
@@ -102,9 +107,9 @@
             </div>
         </div>
         <div class="footer__contacts">
-            <a href="#" class="footer__link link--dark-blue"><img src="../src/images/footer/footer-fb-icon.png"
+            <a href="#" class="footer__link link--blue"><img src="../src/images/footer/footer-fb-icon.png"
                                                                   alt="A Facebook icon" class="footer__logo"></a>
-            <a href="tel:+380503901591" class="footer__link link--dark-blue footer__phone">+38 (050) 390 15 91</a>
+            <a href="tel:+380503901591" class="footer__link link--blue footer__phone">+38 (050) 390 15 91</a>
             <a href="mailto:contact@hlegals.net" class="footer__email text--blue">contact@hlegals.net</a>
         </div>
     </div>

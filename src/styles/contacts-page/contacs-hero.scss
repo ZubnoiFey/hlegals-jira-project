@@ -1,0 +1,38 @@
+.main {
+  padding-bottom: 80px;
+}
+
+.main__container {
+  @include flex-center;
+}
+
+.main__address {
+  margin-bottom: 20px;
+}
+
+.main__item-border {
+  border-bottom: 4px solid #E6E6F0;
+}
+
+.main__phone {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.main__email {
+  margin-bottom: 40px;
+}
+
+.main__item-fb {
+  margin-top: 20px;
+}
+
+.main__link-fb {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.3;
+  text-transform: uppercase;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}

@@ -136,6 +136,11 @@ body {
   color: #24A3FF;
 }
 
+.paragraph--blue {
+  color: #24A3FF;
+}
+
+
 .title {
   font-size: 14px;
   font-weight: 600;
@@ -152,13 +157,20 @@ body {
   text-align: center;
 }
 
+.logo__text {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgba(70, 70, 110, 1);
+
+}
+
 .logo-text-color {
   color: #323264;
 }
 
 .gray-blue-text-color {
   color: rgba(50, 50, 100, 1);
-
 }
 
 .slash-icon {
@@ -202,6 +214,17 @@ body {
 
 .header__page-title {
   font-size: 38px;
+  font-weight: 400;
+  line-height: 1.2;
+  @media (max-width: 1200px) {
+    height: 25px;
+    font-size: 19px;
+    font-weight: 400;
+  }
+}
+
+.logo {
+  font-size: 45px;
   font-weight: 400;
   line-height: 1.2;
   @media (max-width: 1200px) {

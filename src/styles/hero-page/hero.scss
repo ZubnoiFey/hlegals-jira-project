@@ -11,7 +11,6 @@
 .header {
   padding-top: 50px;
   padding-bottom: 120px;
-
 }
 
 .header__container {
@@ -22,6 +21,7 @@
 .header__logo {
   display: flex;
   flex-direction: column;
+
 }
 
 .header__logo:first-letter {
@@ -34,11 +34,13 @@
   line-height: 1.4;
 }
 
-.logo__text {
+.logo__text-bottom {
   margin-top: 17px;
-  font-size: 18px;
+  font-size: 12px;
   font-weight: 400;
   line-height: 1.2;
+  text-transform: uppercase;
+  color: #46466E;
 }
 
 
