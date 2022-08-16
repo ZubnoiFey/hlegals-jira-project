@@ -210,6 +210,9 @@ body {
 .header__bottom-text-wrapper {
   display: flex;
   align-items: flex-start;
+  @media (max-width: 1200px) {
+    margin-top: 30px;
+  }
 }
 
 .header__page-title {
@@ -280,6 +283,17 @@ body {
   width: 400px;
 }
 
+.header__navigation {
+  width:300px;
+  @media (max-width: 800px) {
+    width: 75%;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
 .header__item {
   width: 100%;
   @media (max-width: 800px) {
@@ -288,10 +302,19 @@ body {
 }
 
 .header__list {
+  width:100%;
   @media (max-width: 800px) {
     width: 75%;
     display: flex;
+    gap: 5px;
     justify-content: center;
     align-items: center;
-  };
+  }
+
+  @media (max-width: 600px) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
 }

@@ -11,6 +11,9 @@
 .header {
   padding-top: 50px;
   padding-bottom: 120px;
+  @media(max-width: 800px) {
+    padding-bottom: 50px;
+  }
 }
 
 .header__container {
