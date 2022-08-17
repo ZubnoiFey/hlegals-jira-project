@@ -16,9 +16,14 @@
 
 .publications__item {
   width: 415px;
-
   background: #FFFFFF;
   border-radius: 8px;
+  @include media-tablet {
+    width: 47%;
+  }
+  @include media-mobile {
+    width: 100%;
+  }
 }
 
 .publications__image {

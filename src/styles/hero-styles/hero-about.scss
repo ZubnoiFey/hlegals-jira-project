@@ -8,18 +8,47 @@
   align-items: center;
   justify-content: center;
   gap: 120px;
+  @include media-tablet {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 .hero-about__list {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
+  width: 100%;
+  @include media-tablet {
+    width: 80%;
+    @include flex-center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  @include media-mobile {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
+.hero-about__item {
+  @include flex-center;
+  @include media-mobile {
+    display: flex;
+    flex-direction: column;
+  }
+}
 
 .hero-about__heading {
   width: 550px;
   text-align: end;
+  @include media-mobile {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+  }
 }
 
 
@@ -28,4 +57,11 @@
   font-weight: 500;
   line-height: 1.2;
   margin-bottom: 20px;
+}
+
+.hero-about__text-wrapper {
+  width: 600px;
+@include media-mobile {
+  width: 90%;
+}
 }

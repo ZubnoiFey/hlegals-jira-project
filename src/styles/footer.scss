@@ -3,14 +3,32 @@
      padding-bottom: 40px;
    }
 
+   .footer__container {
+     @include media-mobile {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+     }
+   }
+
    .footer__address-wrapper {
      @include flex-center;
      margin-bottom: 25px;
+     @include media-mobile {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+     }
    }
 
    .footer__address {
      @include flex-center;
      gap: 50px;
+     @include media-mobile {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+     }
    }
 
    .footer__street {
@@ -37,6 +55,11 @@
      display: flex;
      align-items: center;
      gap: 20px;
+     @include media-mobile {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+     }
    }
 
    .footer__phone {

@@ -12,6 +12,11 @@
 .cases__container {
   display: grid;
   gap: 5px;
+  @include media-tablet {
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+  }
 }
 
 .cases__element-1 {

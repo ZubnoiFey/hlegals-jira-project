@@ -1,22 +1,39 @@
 .hero {
-  background-image:url("/src/images/hero/Frame1.svg"), url("/src/images/hero/hero__bg__p-letter.svg"), linear-gradient(42.01deg, #323264 14.33%, #323264 51.39%, #7A425E 87.53%);
+  background-image: url("/src/images/hero/Frame1.svg"), url("/src/images/hero/hero__bg__p-letter.svg"), linear-gradient(42.01deg, #323264 14.33%, #323264 51.39%, #7A425E 87.53%);
   background-repeat: no-repeat, no-repeat, no-repeat;
-  background-position: top 150px left 700px,top 300px left 700px, center;
+  background-position: top 150px left 700px, top 300px left 700px, center;
+  @include media-tablet {
+    background-position: center, center, center;
+  }
 }
 
 .header {
   padding-top: 50px;
   padding-bottom: 125px;
+  @include media-tablet {
+    padding-bottom: 60px;
+  }
 }
 
 .header__container {
   display: flex;
   justify-content: space-between;
+  @include media-mobile {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.logo__image {
+  @include media-tablet {
+    width: 120px;
+  }
 }
 
 .header__lang {
   display: flex;
   gap: 10px;
+
 }
 
 .languages__wrapper {
@@ -40,12 +57,25 @@
 .header__navmenu-wrapper {
   display: flex;
   justify-content: end;
+  @include media-mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 .header__list {
   display: flex;
   gap: 15px;
   margin-top: 20px;
+  @include media-mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
 }
 
 .header__link {

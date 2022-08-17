@@ -18,8 +18,17 @@
   margin-bottom: 20px;
 }
 
+
+.team__image {
+  @include media-tablet {
+    width: 100%;
+  }
+}
 .team__heading {
   margin-bottom: 20px;
+  @include media-mobile {
+    width: 80%;
+  }
 }
 
 .team__name {

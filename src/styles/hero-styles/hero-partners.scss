@@ -14,4 +14,7 @@
 
 .partners__picture {
   width: 480px;
+  @include media-tablet {
+    width: 50%;
+  }
 }

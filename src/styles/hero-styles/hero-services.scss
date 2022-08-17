@@ -8,6 +8,9 @@
 
 .services__heading {
   margin-bottom: 70px;
+  @include media-tablet {
+    margin-bottom: 35px;
+  }
 }
 
 .services__list {
@@ -19,6 +22,9 @@
 .services__item {
   width: 420px;
   margin-bottom: 90px;
+  @include media-tablet {
+    width: 40%;
+  }
 }
 
 .services__icon {
