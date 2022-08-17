@@ -1,0 +1,36 @@
+.team {
+  padding-top: 60px;
+  padding-bottom: 70px;
+}
+
+.team__gallery-wrapper {
+  display: flex;
+  gap: 40px;
+  background-color: rgba(237, 237, 247, 1);
+  border-radius: 12px;
+}
+
+.team__text-wrapper {
+  margin-top: 40px;
+}
+
+.team__top-link {
+  margin-bottom: 20px;
+}
+
+.team__heading {
+  margin-bottom: 20px;
+}
+
+.team__name {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.team__title {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+}
