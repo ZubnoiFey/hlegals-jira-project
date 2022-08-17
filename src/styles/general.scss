@@ -127,9 +127,14 @@ body {
 }
 
 .text--purple {
-  background-image: linear-gradient(90.13deg, #EF8080 0.84%, #F0145A 99.96%);
-  background-clip: initial;
+  background-image: linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+  background-clip: text;
   color: transparent;
+}
+
+.text--blue {
+  color: rgba(36, 163, 255, 1);
+
 }
 
 .heading--grey {

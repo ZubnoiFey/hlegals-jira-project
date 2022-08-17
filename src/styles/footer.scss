@@ -1,0 +1,52 @@
+   .footer {
+     padding-top: 35px;
+     padding-bottom: 40px;
+   }
+
+   .footer__address-wrapper {
+     @include flex-center;
+     margin-bottom: 25px;
+   }
+
+   .footer__address {
+     @include flex-center;
+     gap: 50px;
+   }
+
+   .footer__street {
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 1.2;
+   }
+
+   .footer__map {
+     font-size: 12px;
+     font-weight: 700;
+     line-height: 1.2;
+     text-transform: uppercase;
+     letter-spacing: 1px;
+   }
+
+   .footer__text {
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 1.2;
+   }
+
+   .footer__contacts {
+     display: flex;
+     align-items: center;
+     gap: 20px;
+   }
+
+   .footer__phone {
+     font-weight: 700;
+     font-size: 16px;
+     line-height: 1.2;
+   }
+
+   .footer__email {
+     font-size: 16px;
+     font-weight: 700;
+     line-height: 1.2;
+   }
