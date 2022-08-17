@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/header/logo-hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-achiement.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-achievements.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-hero.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/about-page/about-team.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/contacts-page/contacs-hero.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/contacts-page/contacts-main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/cases.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/hero-about.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/hero.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/partners.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-page/team.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-section.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/team-page/team-hero.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +93,7 @@
       <workItem from="1660666903521" duration="35000" />
       <workItem from="1660678939511" duration="366000" />
       <workItem from="1660679494550" duration="981000" />
-      <workItem from="1660725255539" duration="4101000" />
+      <workItem from="1660725255539" duration="5832000" />
     </task>
     <servers />
   </component>

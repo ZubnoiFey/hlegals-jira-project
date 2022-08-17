@@ -1,0 +1,31 @@
+.hero-about {
+  padding-top: 80px;
+  padding-bottom: 85px;
+}
+
+.hero-about__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 120px;
+}
+
+.hero-about__list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+
+.hero-about__heading {
+  width: 550px;
+  text-align: end;
+}
+
+
+.hero-about__title {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
