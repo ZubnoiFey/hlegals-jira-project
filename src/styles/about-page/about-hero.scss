@@ -1,0 +1,34 @@
+.about-hero {
+  padding-top: 45px;
+  padding-bottom: 100px;
+}
+
+
+.about__hero-container {
+  display: flex;
+  gap: 60px;
+}
+
+.about__hero-text-wrapper {
+  width: 650px;
+}
+
+.border-lisy {
+
+}
+
+.about__icon-wrapper {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.about__number {
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.about__icon {
+  height: 26px;
+}

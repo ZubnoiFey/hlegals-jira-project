@@ -65,6 +65,10 @@
   }
 }
 
+.header__logo-wrapper {
+  @include flex-center;
+}
+
 .header__list {
   display: flex;
   gap: 15px;

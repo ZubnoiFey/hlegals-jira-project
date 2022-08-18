@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec9eb6-64bc-49a9-883a-114889881cb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/about-header/LogoMin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/about-page/about-hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/about-page/about-team.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-cases.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-cases.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-partners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-partners.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-publications.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-publications.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-section.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-services.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-services.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/hero-styles/hero-team.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/hero-styles/hero-team.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +61,11 @@
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-header" />
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\styles\about-page" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\header" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\team" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src" />
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-team" />
-      <recent name="C:\Users\ustin\WebstormProjects\hlegals-website\src\images\about-header" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -99,7 +94,11 @@
       <workItem from="1660666903521" duration="35000" />
       <workItem from="1660678939511" duration="366000" />
       <workItem from="1660679494550" duration="981000" />
-      <workItem from="1660725255539" duration="15135000" />
+      <workItem from="1660725255539" duration="15914000" />
+      <workItem from="1660750618970" duration="35000" />
+      <workItem from="1660813282756" duration="40000" />
+      <workItem from="1660813450703" duration="2235000" />
+      <workItem from="1660828590644" duration="3127000" />
     </task>
     <servers />
   </component>
