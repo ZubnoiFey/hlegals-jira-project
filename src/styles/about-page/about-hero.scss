@@ -3,19 +3,37 @@
   padding-bottom: 100px;
 }
 
+.about__logo {
+  @include media-tablet {
+    height: 47px;
+    font-size: 19px;
+  }
+}
+
+.about__header-container {
+  @include media-tablet {
+    display: flex;
+    gap: 50px;
+  }
+}
 
 .about__hero-container {
   display: flex;
   gap: 60px;
+  @include media-mobile {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .about__hero-text-wrapper {
   width: 650px;
+  @include media-mobile {
+    width: 90%;
+  }
 }
 
-.border-lisy {
 
-}
 
 .about__icon-wrapper {
   display: flex;
